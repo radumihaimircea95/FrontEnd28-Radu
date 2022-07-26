@@ -1,0 +1,27 @@
+h1 {
+  border: 4px solid white;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+body {
+  background-image: url(https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZWFydGglMjBzcGFjZXxlbnwwfHwwfHw%3D&w=1000&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 480px 0px 480px;
+}
+li {
+  float: left;
+  padding: 40px;
+  border: 1px solid whitesmoke;
+}
+.navbar {
+  list-style-type: none;
+  text-align: center;
+  display: inline-block;
+  background-color: black;
+}
+a {
+  text-decoration: none;
+}
